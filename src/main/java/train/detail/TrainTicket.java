@@ -19,8 +19,8 @@ public class TrainTicket {
         System.out.println("Country:"+passangerDetail.passangerAdharDetail.passangerAddress.country);
         System.out.println("State:"+passangerDetail.passangerAdharDetail.passangerAddress.state);
         System.out.println("City:"+passangerDetail.passangerAdharDetail.passangerAddress.city);
-        System.out.println("Pincode:"+passangerDetail.passangerAdharDetail.passangerAddress.pinCode);
-        System.out.println("Adhar Number:"+passangerDetail.passangerAdharDetail.adharNumber);
+        System.out.println("PinCode:"+passangerDetail.passangerAdharDetail.passangerAddress.pinCode);
+        System.out.println("Addhar Number:"+passangerDetail.passangerAdharDetail.adharNumber);
         System.out.println("Train And Ticket Detail");
         System.out.println("Train Number:"+trainNumber);
         System.out.println("Seat Type:"+seatDetail.seatType);
